@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dengluxury</h1>
-<h3 align="center">A passionate frontend developer from South sudan</h3>
+<h1 align="center">Hi 👋, I'm Deng luxury</h1>
+<h3 align="center">A passionate fullstuk developer from South sudan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
