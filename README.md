@@ -2,7 +2,7 @@
 
 
 # Hello World!, I'm a Deng Luxury fullstuck Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2023 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜 currently working on my own [webpage](https://.de)<br>👨🏼‍🎓 studying media based coding school at Rwanda Technik<br>👨🏼‍💻 working as a web developer since 2023 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 
 # 💻 Tech Stack:
